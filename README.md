@@ -6,6 +6,8 @@ I have 7+ years of experience building backend, full-stack, and distributed syst
 
 My main stack includes Go, Ruby on Rails, JavaScript/TypeScript, React, PostgreSQL, Kafka, Redis, Docker, Kubernetes, AWS, and Google Cloud Platform.
 
+Portfolio: [mcameloa.github.io](https://mcameloa.github.io)
+
 ## What I do
 
 - Design and build backend services and APIs
@@ -30,9 +32,9 @@ Most of my professional work has been developed in private repositories for prod
 
 ## About my public repositories
 
-Some public repositories in this profile are university coursework or academic assignments that need to remain public while I complete my Software Engineering degree.
+My public GitHub includes academic work, small experiments, and utility projects.
 
-They are not intended to represent the full scope of my professional work. I use this GitHub profile to share selected labs, experiments, and technical notes around backend development, infrastructure, architecture, and automation.
+Most of my professional work has been built in private company repositories. I use this GitHub profile to share selected labs, experiments, and technical notes around backend development, infrastructure, architecture, and automation.
 
 ## Current interests
 
@@ -52,4 +54,5 @@ Backend architecture · Cloud-native systems · Kafka · Kubernetes · Infrastru
 
 ## Connect
 
+- Portfolio: [mcameloa.github.io](https://mcameloa.github.io)
 - LinkedIn: [linkedin.com/in/mcameloa](https://www.linkedin.com/in/mcameloa/)
