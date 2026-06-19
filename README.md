@@ -1,8 +1,8 @@
 ## Senior Software Engineer
 
-Focused on backend systems, cloud-native infrastructure, and scalable software architecture.
+Focused on backend systems, full-stack product features, and scalable software architecture.
 
-I have 7+ years of experience building backend, full-stack, and distributed systems across sports streaming, delivery, fintech, e-commerce, HR tech, transportation, and public-sector platforms.
+I have 8+ years of experience building backend, full-stack, and distributed systems across sports streaming, delivery, fintech, e-commerce, HR tech, transportation, and public-sector platforms.
 
 My main stack includes Go, Ruby on Rails, JavaScript/TypeScript, React, PostgreSQL, Kafka, Redis, Docker, Kubernetes, AWS, and Google Cloud Platform.
 
@@ -20,8 +20,9 @@ Portfolio: [mcameloa.github.io](https://mcameloa.github.io)
 
 I've worked with engineering teams and platforms including:
 
-- PlayOnSports
-- Shipt
+- Nortal / PlayOnSports
+- Catalyte / Flexera
+- Pyramid / Shipt
 - Hapi
 - Mercado Libre
 - Rankmi
